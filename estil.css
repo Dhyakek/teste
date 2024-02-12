@@ -1,0 +1,43 @@
+@charset "UTF-8";
+.container{
+    max-width: 450;
+   
+    
+}
+
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: justify;
+}
+ 
+
+main{
+    border-radius: 10px;
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+    height: auto;
+    background-color: white;
+}
+
+body{
+    background-image: linear-gradient(to bottom, #5DAA6F,#125522);
+    width: auto;
+    background-attachment: fixed;
+}
+
+h1{
+    color: #308043;
+    
+}
+
+h2{
+    color: #5DAA6F;
+}
+
+button{
+    
+    background-color:#6D6C6E;
+    height: 32px;
+    right: 360px; bottom: 4px; position:absolute
+}
